@@ -1,0 +1,7 @@
+Compile Manual Program
+
+javac model\*.java
+javac presenter\*.java
+javac -cp ..\lib\AbsoluteLayout.jar; View/*.java
+javac -cp ..\lib\AbsoluteLayout.jar; tmd_game\Main.java
+java -cp ..\lib\mysql-connector-java-5.1.6-bin.jar;..\lib\AbsoluteLayout.jar; tmd_game/Main
