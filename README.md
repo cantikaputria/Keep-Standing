@@ -10,8 +10,8 @@
 * **Immersive Graphics:** Enjoy stunning graphics that enhance the overall gaming experience.
 
 ### Controls
-Use the 'Space key' to pause the game and return to the main menu.
-Press the 'Up Arrow key' to make the main character jump upwards. The main character can be an image that can move up, left, and right.
+Use the `Space key` to pause the game and return to the main menu.
+Press the `Up Arrow key` to make the main character jump upwards. The main character can be an image that can move up, left, and right.
 
 ### Scoring Systems
 Your score increases as the main character successfully stays on the platforms and avoids falling into the gaps. The length of the platform determines the score, where shorter platforms give higher scores, as they are more challenging to land on.
